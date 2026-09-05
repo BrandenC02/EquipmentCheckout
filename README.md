@@ -1,0 +1,3 @@
+This program was developed to aid the company GB Manufacturing in a fictional setting.  The company was reporting tools going missing from a warehouse.  This system was designed to track every piece of equipment that left
+the warehouse and which employee it was with.  This program would be used to accurately monitor and identify any employees committing theft and reported to the proper channels.  If an employee were to remove equipment from
+the warehouse they will need to login to the system first and identify what they will be using.  This tracks the date and time the item was removed as well as the date and time the item was returned using MySQL Database.
